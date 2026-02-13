@@ -5,7 +5,7 @@ Early buys from multiple accounts, focused on growth and long-term vision.
 
 **Token Details**
 - Ticker: $SOLSTAB
-- Pump.fun Link: https://pump.fun/ENDwPB9U8LxkvR1SCVatxwnJbNNgcZiPqqxZPNpump ← your link (paste exact)
+- Pump.fun Link: https://pump.fun/ENDwPB9U8LxkvR1SCVatxwnJbNNgcZiPqqxZPNpump ← paste your exact link here
 - Current Price (approx): \~$0.000232 (check Birdeye/Dexscreener for live)
 - Combined Holding: 17.7M SOLSTAB (\~$4,106 current value)
 
@@ -32,7 +32,7 @@ Early buys from multiple accounts, focused on growth and long-term vision.
 **Links**
 - Pump.fun: https://pump.fun/ENDwPB9U8LxkvR1SCVatxwnJbNNgcZiPqqxZPNpump
 - GitHub: https://github.com/EINTACLP/SolStabil
-- Dashboard thread: [link to this Grok conversation or screenshot]
+- Dashboard thread: [link to this Grok convo or screenshot]
 
 High-risk memecoin. DYOR. No guarantees.  
 Join the vision — let's grow together.
